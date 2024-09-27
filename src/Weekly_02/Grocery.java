@@ -1,4 +1,4 @@
-package Weekly_01;
+package Weekly_02;
 
 public class Grocery extends Product {
     public Grocery(String name, int price, double weight) {

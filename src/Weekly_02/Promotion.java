@@ -1,4 +1,4 @@
-package Weekly_01;
+package Weekly_02;
 
 public interface Promotion {
 

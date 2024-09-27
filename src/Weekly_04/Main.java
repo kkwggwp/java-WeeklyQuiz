@@ -1,4 +1,4 @@
-package Weekly_03;
+package Weekly_04;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
